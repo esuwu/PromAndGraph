@@ -1,0 +1,17 @@
+{
+	"ulid": "01EMH7KB3226ZPGW5Y8APYE0FY",
+	"minTime": 1602590400000,
+	"maxTime": 1602597600000,
+	"stats": {
+		"numSamples": 1707013,
+		"numSeries": 1969,
+		"numChunks": 13741
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01EMH7KB3226ZPGW5Y8APYE0FY"
+		]
+	},
+	"version": 1
+}

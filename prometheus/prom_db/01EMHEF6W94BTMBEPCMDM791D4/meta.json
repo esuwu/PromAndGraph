@@ -1,0 +1,17 @@
+{
+	"ulid": "01EMHEF6W94BTMBEPCMDM791D4",
+	"minTime": 1602597600000,
+	"maxTime": 1602604800000,
+	"stats": {
+		"numSamples": 2744380,
+		"numSeries": 1969,
+		"numChunks": 19718
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01EMHEF6W94BTMBEPCMDM791D4"
+		]
+	},
+	"version": 1
+}
